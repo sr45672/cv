@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+}
+.TOP {
+    background-color: rgb(255, 153, 0);
+    padding: 100px 0px 100px 0px;
+    font-family: 'Kalam', cursive;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+
+.MIDDLE {
+    background-color: rgb(248, 177, 71);
+    font-family: 'Roboto Mono', monospace;
+    padding: 100px 0px 100px 0px;
+    text-align: center;
+    column-count: 2;
+}
+
+.BOTTOM {
+    background-color: rgb(253, 207, 138);
+    padding: 100px 0px 100px 0px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 25px;
+}
+
+.tigerIMG {
+    float: left;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+    height: 150px;
+    width: 150px;
+}
+
+.engineerIMG {
+    float: right;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    height: 150px;
+    width: 150px;
+}
+
+.SmaranIMG {
+    float: left;
+    width: 500px;
+    height: 600px;
+    border-radius: 50px;
+    position: relative;
+    left: 125px;
+} 
+
+.SmaranTXT {
+    font-size: 30px;
+    float: right;
+    text-align: center;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+
+.languages {
+    column-count: 2;
+}
+
+.langIMG {
+    float: left;
+    padding-left: 450px;
+}
+
+.langTXT {
+    float: right;
+    padding-right: 500px;
+    padding-top: 50px;
+}
+
+.leadership {
+    column-count: 2;
+}
+
+.leadIMG {
+    float: left;
+    padding-left: 450px;
+    padding-top: 25px;
+    height: 250px;
+}
+
+.leadTXT {
+    float: right;
+    font-size: 19px;
+    text-align: left;
+    position: relative;
+    right: 100px;
+    top: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+}
+
+a:hover {
+    color:blue;
+}
+
+.skills {
+    column-count: 2;
+}
+
+.skillsIMG {
+    float: left;
+    height: 300px;
+    padding-left: 450px;
+}
+
+.skillsTXT {
+    float: right;
+    font-size: 20px;
+    text-align: left;
+    padding-right: 500px;
+}
+
+.button {
+    background-color:rgb(245, 152, 11);
+    text-align: center;
+    display: inline-block;
+    border-color: black;
+    text-decoration: none;
+    border-top: 10px black;
+    border-bottom: 10px black;
+    border-right: 10px black;
+    border-left: 10px black;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color:rgb(255, 255, 255)
+}
+
+hr {
+    background-color: rgb(14, 11, 9);
+    border-top: 10px dotted;
+}
+
+.contactTXT {
+    padding-left: 500px;
+    font-size: 20px;
+}
+
+.contactBOX {
+    padding-right: 500px;
+    padding-top: 25px;
+}
+
+
+
+
+
+
+
